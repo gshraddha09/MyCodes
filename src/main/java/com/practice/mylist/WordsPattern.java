@@ -1,0 +1,10 @@
+package com.practice.mylist;
+
+public class WordsPattern {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
