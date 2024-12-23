@@ -1,1 +1,2 @@
 this is master branch
+this is test file for git rebase master
